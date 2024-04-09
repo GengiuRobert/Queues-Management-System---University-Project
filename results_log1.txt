@@ -1,0 +1,5 @@
+
+
+Average Waiting Time: 0.01
+Average Service Time: 54.00
+Peak Hour: 12 with 1 tasks
